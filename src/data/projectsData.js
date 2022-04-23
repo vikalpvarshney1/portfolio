@@ -33,7 +33,7 @@ export const projectsData = [{
     projectDesc: 'About BookMyShow website is basically for entertainment purpose, In this app, a user can book movie tickets by choosing the different theatres and timings accordingly. The user also can see some events happening around them and can attend the events.',
     tags: ['React'],
     code: 'https://github.com/vikalpvarshney1/team8',
-    demo: '',
+    demo: 'https://main--vikalpbookmyshow.netlify.app/',
     image: img
 },
 {
